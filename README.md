@@ -162,9 +162,7 @@ All players share the same skill pool:
 - **Survival** – oxygen, cold, radiation, hunger  
 - **Psychology** – fear control, mental breaks  
 - **Biochemistry** – food safety, toxins, alien bacteria, infections  
-
 - Each player chooses **one Focus Skill** that receives an XP boost.
-
 > **Captain is not a skill** – it is a **role** that usually leans on Leadership + Navigation + some Combat.
 
 ---
