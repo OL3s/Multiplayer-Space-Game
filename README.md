@@ -283,7 +283,6 @@ Natural builds:
 - Plasma  
 - Arcjet  
 - Gyroscope (electrical)  
-
 - Running both at max → **power overload + fuel drain**
 
 ### Weapons & Defense
