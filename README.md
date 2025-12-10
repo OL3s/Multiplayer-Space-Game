@@ -1,4 +1,4 @@
-# Astraphobia - Game concept summerized by AI
+# Astraphobia
 
 **Players:** 2–8  
 **Goal:** *Reach the Center* – *Start from edge* – get to the wormhole in time.
@@ -417,3 +417,67 @@ Alien bacteria:
 **Research**
 - Active tool-based analysis  
 - Misuse causes contamination or explosions  
+
+---
+
+## Dynamic Resource & Material System
+
+All construction uses **dynamic materials**.  
+The same item built from different materials gains different:
+
+- Durability  
+- Power efficiency  
+- Hazard resistance  
+- Perks & side effects  
+- Tier scaling bonuses  
+
+---
+
+### Material Progression (Base → Endgame)
+
+#### Tier 1 – Scrap & Primitive (Zone 1)
+- Scrap Metal  
+- Rusted Alloy  
+- Carbon Plates  
+- Basic Plastics  
+- Organic Fibers  
+
+#### Tier 2 – Industrial (Zone 2)
+- Steel  
+- Copper  
+- Aluminum  
+- Reinforced Polymer  
+- Glass Composite  
+
+#### Tier 3 – Advanced Engineering (Zone 3)
+- Titanium Alloy  
+- Tungsten  
+- Silicon Wafers  
+- Superconductive Wire  
+- Hardened Ceramics  
+
+#### Tier 4 – Hazard & Energy (Zone 4)
+- Leaded Radiation Plating  
+- Plasma Conduits  
+- Cryo-Stabilized Metal  
+- Acid-Resistant Composite  
+- High-Density Battery Cells  
+
+#### Tier 5 – Exotic / Endgame (Zone 5)
+- Exotic Matter  
+- Dark Crystal  
+- Antimatter Containment Alloy  
+- Graviton-Weave  
+- Living Biomaterial  
+
+---
+
+### Example Material Effects
+
+- **Titanium Hull** → Lightweight + high structural HP  
+- **Cryo Metal Pipes** → Freeze-resistant life support  
+- **Dark Crystal Weapons** → Fear effect on enemies  
+- **Living Biomaterial** → Self-repair but infection risk  
+
+**Rule:**  
+Material choice changes **system behavior**, not just numbers.
